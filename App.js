@@ -9,7 +9,6 @@ import BookingScreen from "./src/app/screens/BookingScreen";
 import SupportScreen from "./src/app/screens/SupportScreen";
 
 const Tab = createBottomTabNavigator();
-
 export default function App() {
   return (
     <NavigationContainer>
