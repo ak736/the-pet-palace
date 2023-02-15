@@ -1,1 +1,1 @@
-# pet-kennel
+# The Pet Palace
